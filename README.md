@@ -4,7 +4,7 @@ A Natural Language Processing (NLP) based solution to identify key topics presen
 
 ## Product overview
 
-This solution analyzes customer complaints about Money Transfer services to identify the topics. The solution clusters customer complaints into topics based on the narratives provided. Given a set of customer complaints, this solution identifies the top three issues. This automates the task of identifying what transaction specific issues are being mentioned in a customer complaint thereby reducing the human involvement required for the task.
+This solution analyzes customer complaints about Money Transfer services to identify the key topics. The solution clusters customer complaints into topics based on the narratives provided. Given a set of customer complaints, this solution identifies the top three issues. This automates the task of identifying what transaction specific issues are being mentioned in a customer complaint thereby reducing the human involvement required for the task.
 
 ## Product Highlight 
 
